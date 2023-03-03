@@ -22,4 +22,13 @@
  
 Criado tela mostrando todos os Funcionarios cadastrados e um filtro para a busca dos mesmo 
  
-
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="/video/video.mp4"></iframe>
+    </div>
+  </div>
+</body>
