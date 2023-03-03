@@ -22,4 +22,6 @@
  
 Criado tela mostrando todos os Funcionarios cadastrados e um filtro para a busca dos mesmo 
  
- 
+ <div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="/video/video.mp4" allowfullscreen></iframe>
+</div>
